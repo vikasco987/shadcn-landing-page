@@ -23,9 +23,9 @@ export const HeroSection = () => {
             <h1>
               Experience the
               <span className="text-transparent px-2 bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text">
-                Shadcn
+                Magic Scale
               </span>
-              landing page
+              website devlopment company
             </h1>
           </div>
 
@@ -75,3 +75,16 @@ export const HeroSection = () => {
     </section>
   );
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
